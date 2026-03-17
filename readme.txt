@@ -1,9 +1,3 @@
-# SentimentAnalysisBasic
-This is python basic project about sentiment analysis based on user input text.
-
-
-
-
 Sentiment Analysis Project
 
 This is a Sentiment Analysis project built in Python using TextBlob.
